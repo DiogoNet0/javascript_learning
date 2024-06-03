@@ -253,3 +253,17 @@ alert(min(6, 2)); */
 }
 alert(min(6, 7));
  */
+
+//arrow functions
+
+/* function ask(question, yes, no) {
+  if (confirm(question)) yes();
+  else no();
+}
+
+ask(
+  "Do you agree?",
+  () => alert("You agreed."),
+  () => alert("You canceled the execution.")
+);
+ */
