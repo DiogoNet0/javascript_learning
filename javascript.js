@@ -267,3 +267,18 @@ ask(
   () => alert("You canceled the execution.")
 );
  */
+
+/* Exercises TheOdinProject
+
+let add7 = (number) => number + 7;
+alert(add7(7));
+
+let multiply = (a, b) => a * b;
+alert(multiply(2, 2));
+
+let capitalize = (string) => string.charAt(0).toUpperCase() + string.slice(1);
+alert(capitalize("i love you!"));
+
+let lastLetter = (string) => string.slice(-1);
+alert(lastLetter("i love you!"));
+ */
